@@ -1,0 +1,47 @@
+
+.custom-card {
+  background-color: #13293d;
+  color: rgb(0, 0, 0); 
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); 
+  transition: transform 0.3s ease-in-out; 
+  margin: 10px; 
+  text-align: center; 
+  justify-content: center;
+}
+
+
+.clasificador{
+  text-align: center;
+  font-size: 15px;
+}
+
+.custom-card:hover {
+  transform: translateY(-5px); 
+}
+
+.custom-card h1 {
+  font-size: 20px; 
+  margin-bottom: 10px;
+}
+
+.custom-card h2 {
+  font-size: 16px; 
+  margin-bottom: 8px;
+}
+
+.custom-card h3 {
+  font-size: 14px;
+  margin-bottom: 6px;
+}
+
+*{
+  justify-content: center;
+  background-color: bisque;
+}
+h1{
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
